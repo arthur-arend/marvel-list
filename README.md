@@ -27,12 +27,10 @@ Create a `.env` file in the project root using the `.env.example` file as a temp
 
 ```sh
 cp .env.example .env
+```
 
 ## 🛠️ **Running the Project**
 
 `npx vite`
 
 The application will be available at http://localhost:5173 by default (or as specified by Vite).
-
-##
-```
