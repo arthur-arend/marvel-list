@@ -19,9 +19,7 @@ git clone <https://github.com/arthur-arend/marvel-list>
 
 ### **3. Install dependencies**
 
-```npm install
-
-```
+`npm install`
 
 ## 🛠️ **Running the Project**
 
