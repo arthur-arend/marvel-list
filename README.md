@@ -15,7 +15,7 @@ git clone <https://github.com/arthur-arend/marvel-list>
 
 ### **2. Navigate to the project directory**
 
-`cd marvel-hulk-stories`
+`cd marvel-list`
 
 ### **3. Install dependencies**
 
